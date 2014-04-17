@@ -68,7 +68,7 @@ height: 180px;
 	-webkit-box-sizing:border-box;
 /*	border: 1px solid red;*/
 	width: 100%;
-	height: 900px;
+	/*height: 900px;*/
 	padding: 18px;
 	background: white;
 }
@@ -93,6 +93,7 @@ background: -webkit-linear-gradient(#FFFFCC,#FFFFF7);
 	font-family: verdana, sans-serif;
 }
 .p1 {
+	height: 160px;
 	line-height: 1.5em;
 	font-family: verdana, sans-serif;
 	text-align: justify;
@@ -140,12 +141,12 @@ background: -webkit-linear-gradient(#FFFFCC,#FFFFF7);
 
 /*Footer*/
 .footer {
-	margin-top: 178px;
+	margin-top: 10px;
 	background: #8A8A8A;
 	position: relative;
 	height: 35px;
 	-webkit-box-sizing:border-box;
-	padding-bottom: 8px;
+/*	padding-bottom: 8px;*/
 }
 .copyright {
 	float: left;
